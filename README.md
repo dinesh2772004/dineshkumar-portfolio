@@ -2,6 +2,7 @@
 
 ## About Me
 Motivated Computer Science graduate skilled in Java, web development, and UI/UX design. Passionate about building clean and responsive web applications.
+## Protfolio
 
 ## Projects
 
